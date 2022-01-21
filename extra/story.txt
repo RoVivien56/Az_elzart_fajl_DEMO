@@ -1,0 +1,16 @@
+-------------------A TÖRTÉNET--------------------
+
+ Ön hosszú évek óta egy rejtvénygyártó cégnél
+dolgozik. Egy nap azonban rejtélyes oknál fogva
+elfelejtette a különleges fájljához a hozzáféré-
+si adatokat. Mivel nagyon fontos az Ön számára,
+hogy senki se férhessen hozzá, ezért olyan jel-
+szót talált ki, amit tényleg senki sem tud kita-
+lálni. Azonban, hogy ha esetleg maga mégis elfe-
+lejtené, a biztonság kedvéért összessen négy map-
+pában elrejtette a teljes hozzáférési adatot.
+Minden mappában feladatok vannak, amelyek megol-
+ásával egyre közelebb és közelebb juthat a külön-
+leges fájljához.
+
+Sok sikert a hozzáféréshez!
