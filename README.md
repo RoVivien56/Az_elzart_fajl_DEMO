@@ -1,0 +1,1 @@
+# Az_elzart_fajl_DEMO
